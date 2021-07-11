@@ -1,10 +1,11 @@
 ### 🍒 Hi, I’m front-end developer @yhcwawo
-
+#
 - 🌱 I’m currently learning React & Banila Javascript & Python Automation
 - 🎓 I'm majoring in Computer Science & E-business
 - 📫 How to reach me: ghdcks1018@gmail.com
 - 🧐 My personal portfolio website: https://yhcwawo.github.io/yhc
 
+#
 ### Experiences
 
 - 🧬 Wedding platform startup company 'weding' CTO (2020.9 ~ 2021.9)
@@ -12,9 +13,8 @@
 - 🐧 wemakeprice Data Scientist Intern (2016.7 ~ 2016.8)
 
 #
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhcwawo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhcwawo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![yhcwawo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhcwawo&layout=compact&hide=contribs&show_icons=true&theme=radical&line_height=24px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhcwawo&layout=compact&show_icons=true&theme=radical)
 
 
 <!---
