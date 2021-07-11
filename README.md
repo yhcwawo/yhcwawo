@@ -1,6 +1,6 @@
 ### 🍒 Hi, I’m front-end developer @yhcwawo
 #
-- 🌱 I’m currently learning React & Banila Javascript & Python Automation
+- 🌱 I’m currently learning React & Typescript & Python Automation
 - 🎓 I'm majoring in Computer Science & E-business
 - 📫 How to reach me: ghdcks1018@gmail.com
 - 🧐 My personal portfolio website: https://yhcwawo.github.io/yhc
