@@ -1,4 +1,4 @@
-### Hello👋 Welcome to front-end developer @yhcwawo Github.
+### Hello👋 Welcome to Front-end developer @yhcwawo Github.
 #
 - 👨‍💻 I'm Interested in Front-end Stack and FinTech
 - 🌱 I’m currently learning React & Typescript & Python Automation
