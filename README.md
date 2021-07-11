@@ -8,9 +8,9 @@
 #
 ### Experiences
 
-- 🧬 [Wedding platform startup company 'WEDING'](www.naver.com) CTO (2020.9 ~ 2021.9)
+- 🧬 [Wedding platform startup company 'WEDING'](https://withandwithout.netlify.app/) CTO (2020.9 ~ 2021.9)
 - 💚 [Hyundai Autoever](http://www.hyundai-autoever.com/common/goPage.view?page=/ko/teaser) software engineer (2018.1 ~ 2020.8)
-- 🐧 [wemakeprice](https://front.wemakeprice.com) Data Scientist Intern (2016.7 ~ 2016.8)
+- 🐧 [wemakeprice](http://company.wemakeprice.com/wmp/) Data Scientist Intern (2016.7 ~ 2016.8)
 
 #
 ![yhcwawo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhcwawo&layout=compact&hide=contribs&show_icons=true&theme=radical&line_height=24px)
