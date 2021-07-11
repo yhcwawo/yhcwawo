@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @yhcwawo
-- 👀 I’m interested in React & Typescript & Front-end
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 🍒 Hi, I’m front-end developer @yhcwawo
+
+- 🌱 I’m currently learning React & Banila Javascript & Python Automation
+- 🎓 I'm majoring in Computer Science & E-business
+- 📫 How to reach me: ghdcks1018@gmail.com
+- 🧐 My personal portfolio website: https://yhcwawo.github.io/yhc
+
+### Experiences
+
+🧬 Wedding platform startup company 'weding' CTO (2020.9 ~ 2021.9)
+💚 Hyundai Autoever software engineer (2018.1 ~ 2020.8)
+🐧 wemakeprice Data Scientist Intern (2016.7 ~ 2016.8)
+
 
 <!---
 yhcwawo/yhcwawo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
