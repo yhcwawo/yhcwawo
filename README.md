@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=yhcwawo!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=70&animation=fadeIn)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yhcwawo!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=70&animation=fadeIn)
 ### Hello👋 Welcome to Front-end developer @yhcwawo Github.
 
 #
