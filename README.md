@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning `React` & `Typescript` & `Python Automation`
 - 🎓 I'm majoring in Computer Science & E-business
 - 📫 How to reach me: ghdcks1018@gmail.com
-- 🧐 My personal portfolio website: https://yhcwawo.github.io/yhc
+- 🧐 My personal Blog: https://yhcwawo.github.io/yhcwawo.github.io
 
 #
 ### Experiences
