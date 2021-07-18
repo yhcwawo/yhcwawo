@@ -11,7 +11,7 @@
 #
 ### Experiences
 
-- 🧬 Wedding platform startup company [WEDING](https://withandwithout.netlify.app/) CTO (2020.9 ~ 2021.9)
+- 🧬 Wedding platform startup company [WEDING](https://withandwithout.netlify.app/) CTO (2020.8 ~ 2021.8)
 - 💚 [Hyundai Autoever](http://www.hyundai-autoever.com/common/goPage.view?page=/ko/teaser) software engineer (2018.1 ~ 2020.7)
 - 🐧 [wemakeprice](http://company.wemakeprice.com/wmp/) Data Scientist Intern (2016.7 ~ 2016.8)
 
