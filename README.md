@@ -6,13 +6,13 @@
 - 🌱 I’m currently learning `React` & `Typescript` & `Python Automation`
 - 🎓 I'm majoring in Computer Science & E-business
 - 📫 How to reach me: ghdcks1018@gmail.com
-- 🧐 My personal Blog: https://yhcwawo.github.io/yhcwawo.github.io
+- 🧐 My personal Dev Blog: https://yhcwawo.github.io
 
 #
 ### Experiences
 
-- 🧬 Wedding platform startup company [WEDING](https://withandwithout.netlify.app/) CTO (2020.8 ~ 2021.8)
-- 💚 [Hyundai Autoever](http://www.hyundai-autoever.com/common/goPage.view?page=/ko/teaser) software engineer (2018.1 ~ 2020.7)
+- 🧬 Untact wedding platform startup [WEDING](https://gorgeous-wandflower-dca.notion.site/b884f1108d784bd5a9f1115c4d7417d6) CTO (2020.8 ~ 2021.8)
+- 💚 [Hyundai Autoever](https://www.hyundai-autoever.com/kor/main/index.do) Software engineer (2018.1 ~ 2020.7)
 - 🐧 [wemakeprice](http://company.wemakeprice.com/wmp/) Data Scientist Intern (2016.7 ~ 2016.8)
 
 #
