@@ -11,7 +11,7 @@
 #
 ### Experiences
 
-- 🧬 Untact wedding platform startup [WEDING](https://gorgeous-wandflower-dca.notion.site/b884f1108d784bd5a9f1115c4d7417d6) CTO (2020.8 ~ 2021.8)
+- 🧬 Untact wedding platform startup [WEDING](https://www.weding.io/) CTO (2020.8 ~ 2021.8)
 - 💚 [Hyundai Autoever](https://www.hyundai-autoever.com/kor/main/index.do) Software engineer (2018.1 ~ 2020.7)
 - 🐧 [wemakeprice](http://company.wemakeprice.com/wmp/) Data Scientist Intern (2016.7 ~ 2016.8)
 
