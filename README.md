@@ -1,9 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yhcwawo!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=70&animation=fadeIn)
-### Hello👋 Welcome to Front-end developer @yhcwawo Github.
+### Hello👋 Welcome to Full-stack developer @yhcwawo Github.
 
 #
 - 👨‍💻 I'm Interested in Front-end Stack and FinTech
-- 🌱 I’m currently learning `React` & `Typescript` & `Python Automation`
+- 🌱 I’m currently learning `React` & `Spring boot`
 - 🎓 I'm majoring in Computer Science & E-business
 - 📫 How to reach me: ghdcks1018@gmail.com
 - 🧐 My personal Dev Blog: https://yhcwawo.github.io
