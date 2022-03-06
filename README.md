@@ -4,7 +4,7 @@
 #
 - 👨‍💻 I'm Interested in Front-end Stack and FinTech
 - 🌱 I’m currently learning `React` & `Spring boot`
-- 🎓 I'm majoring in Computer Science & E-business
+- 🎓 I was majored in Computer Science & E-business
 - 📫 How to reach me: ghdcks1018@gmail.com
 - 🧐 My personal Dev Blog: https://yhcwawo.github.io
 
