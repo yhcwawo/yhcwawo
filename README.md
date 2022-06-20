@@ -12,7 +12,7 @@
 ### Experiences
 
 - 💰 [BC Card](https://www.bccard.com/) Card Financial Service Full-stack Developer (2021.11 ~)
-- 🧬 Untact wedding platform startup [WEDING] CTO (2020.10 ~ 2021.9)
+- 🧬 Untact wedding platform startup WEDING CTO (2020.10 ~ 2021.9)
 - 💚 [Hyundai Autoever](https://www.hyundai-autoever.com/) Front-end Developer (2018.1 ~ 2020.7)
 - 🐧 [wemakeprice](http://company.wemakeprice.com/wmp/) Data Scientist Intern (2016.7 ~ 2016.8)
 
